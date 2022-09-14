@@ -1,0 +1,8 @@
+----------------------------------------------------------
+st.name                                        age
+----------------------------------------------------------
+Bhuvana Ramasani                         22
+Mamatha Rmasani                          24
+Vamsi Ramasani                             29
+Harika Ramasani                             5
+Jai Deep Ramasani                          3

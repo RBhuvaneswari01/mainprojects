@@ -1,0 +1,63 @@
+-----------------------------------------------------------------
+html
+-----------------------------------------------------------------
+<p>p4 works!</p>
+
+        <ol>
+            <li *ngFor="let movie of movieslist">
+                {{movie.name}}
+            </li>
+        </ol>
+---------------------------------------------------------------------
+spec.ts
+---------------------------------------------------------------------
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { P4Component } from './p4.component';
+
+describe('P4Component', () => {
+  let component: P4Component;
+  let fixture: ComponentFixture<P4Component>;
+
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      declarations: [ P4Component ]
+    })
+    .compileComponents();
+
+    fixture = TestBed.createComponent(P4Component);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});
+
+-----------------------------------------------------------------------------
+ts
+------------------------------------------------------------------------------
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-p4',
+  templateUrl: './p4.component.html',
+  styleUrls: ['./p4.component.css']
+})
+export class P4Component implements OnInit {
+  movieslist :any[]= [
+    {name :"Love Mocktail"},
+    {name:"June"},
+    {name :"RRR"},
+    {name :"Akanda"},
+    {name :"Sita Ramamam"}
+  ];
+
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+
+}
+

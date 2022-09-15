@@ -204,7 +204,6 @@ namespace mainproject3
 
 
             bool status;
-            string temp;
             status = false;
 
 
@@ -227,15 +226,8 @@ namespace mainproject3
 
                         s.PrintData();
 
-                        Console.WriteLine("==================================================================");
-                        Console.WriteLine("do you want to continue(y/n)");
-                        Console.WriteLine("==================================================================");
-                        temp = Console.ReadLine();
-                        if (temp == "y" || temp == "Y")
-                        {
-                            status = true;
-                        }
-
+                        Console.ReadLine();
+                       
                         break;
                     case 2:
                         Teacher t = new Teacher();
@@ -253,14 +245,8 @@ namespace mainproject3
 
                         Console.WriteLine("Printing  teacher details");
                         t.PrintData();
-                        Console.WriteLine("==================================================================");
-                        Console.WriteLine("do you want to continue(Y/n)");
-                        Console.WriteLine("==================================================================");
-                        temp = Console.ReadLine();
-                        if (temp == "y" || temp == "Y")
-                        {
-                            status = true;
-                        }
+                         Console.ReadLine();
+                        
 
                         break;
                     case 3:
@@ -274,14 +260,8 @@ namespace mainproject3
                         Console.WriteLine("Printing subject details");
                         Console.WriteLine("==================================================================");
                         su.PrintData();
-                        Console.WriteLine("==================================================================");
-                        Console.WriteLine("do you want to continue(Y/n)");
-                        Console.WriteLine("==================================================================");
-                        temp = Console.ReadLine();
-                        if (temp == "y" || temp == "Y")
-                        {
-                            status = true;
-                        }
+                         Console.ReadLine();
+                       
 
                         break;
                     default:

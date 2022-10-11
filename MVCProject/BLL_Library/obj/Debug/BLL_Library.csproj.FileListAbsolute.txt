@@ -1,0 +1,6 @@
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\bin\Debug\BLL_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\bin\Debug\BLL_Library.pdb
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\obj\Debug\BLL_Library.csproj.AssemblyReference.cache
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\obj\Debug\BLL_Library.csproj.CoreCompileInputs.cache
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\obj\Debug\BLL_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\BLL_Library\obj\Debug\BLL_Library.pdb

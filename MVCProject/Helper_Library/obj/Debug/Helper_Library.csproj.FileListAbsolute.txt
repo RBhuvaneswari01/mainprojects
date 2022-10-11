@@ -1,0 +1,12 @@
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\Helper_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\Helper_Library.pdb
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\BLL_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\DAL_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\BLL_Library.pdb
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\DAL_Library.pdb
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\bin\Debug\DAL_Library.dll.config
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\obj\Debug\Helper_Library.csproj.AssemblyReference.cache
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\obj\Debug\Helper_Library.csproj.CoreCompileInputs.cache
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\obj\Debug\Helper_Library.csproj.CopyComplete
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\obj\Debug\Helper_Library.dll
+D:\c#\basic codes\ConsoleApp1\MVCProject\Helper_Library\obj\Debug\Helper_Library.pdb

@@ -1,0 +1,4 @@
+D:\c#\basic codes\ConsoleApp1\webapidemo\webapidemo\obj\Debug\webapiproject.csproj.AssemblyReference.cache
+D:\c#\basic codes\ConsoleApp1\webapidemo\webapidemo\obj\Debug\webapiproject.csproj.CoreCompileInputs.cache
+D:\c#\basic codes\ConsoleApp1\webapidemo\webapidemo\obj\Debug\webapidemo.dll
+D:\c#\basic codes\ConsoleApp1\webapidemo\webapidemo\obj\Debug\webapidemo.pdb

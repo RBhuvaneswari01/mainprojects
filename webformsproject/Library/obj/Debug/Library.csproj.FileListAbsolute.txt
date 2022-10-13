@@ -1,0 +1,9 @@
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\bin\Debug\Library.dll
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\bin\Debug\Library.pdb
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\obj\Debug\Library.dll
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\obj\Debug\Library.pdb
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\bin\Debug\BLL_library.dll
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\bin\Debug\BLL_library.pdb
+D:\c#\basic codes\ConsoleApp1\webformsproject\Library\obj\Debug\Library.csproj.CopyComplete

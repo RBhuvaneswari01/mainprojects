@@ -1,0 +1,12 @@
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\DAL_library.dll
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\DAL_library.pdb
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\obj\Debug\DAL_library.csproj.AssemblyReference.cache
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\obj\Debug\DAL_library.csproj.CoreCompileInputs.cache
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\obj\Debug\DAL_library.dll
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\obj\Debug\DAL_library.pdb
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\DAL_library.dll.config
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\EntityFramework.dll
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\EntityFramework.xml
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\basic codes\ConsoleApp1\EMFProject\DAL_library\obj\Debug\DAL_library.csproj.CopyComplete
